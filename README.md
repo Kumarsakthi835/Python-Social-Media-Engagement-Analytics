@@ -264,38 +264,6 @@ user behavior and content performance.
 
 ---
 
-## 📁 Project Structure
-
-Social-Media-Engagement-Analytics/
-│
-├── social_media_engagement_5000.csv
-├── Social_Media_Engagement_Analytics.ipynb
-│
-├── Screenshots/
-│ ├── task1_data_import.png
-│ ├── task2_data_cleaning.png
-│ ├── task3_exploration.png
-│ ├── task4_wrangling.png
-│ ├── task5_statistics.png
-│ ├── plot1_scatter.png
-│ ├── plot2_line.png
-│ ├── plot3_bar.png
-│ ├── plot4_pie.png
-│ ├── plot5_histogram.png
-│ ├── plot6_box.png
-│ ├── plot7_countplot.png
-│ ├── plot8_barplot.png
-│ ├── plot9_violin.png
-│ ├── plot10_pairplot.png
-│ ├── plot11_heatmap.png
-│ ├── plot12_swarm.png
-│ ├── plot13_plotly.png
-│ └── task7_insights.png
-│
-└── README.md
-
-
-
 ---
 
 ## 👨‍💻 Author
